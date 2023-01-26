@@ -1,0 +1,6 @@
+php.net
+---------------
+
+array_sum($list);
+
+shuffle($list);
