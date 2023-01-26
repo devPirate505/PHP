@@ -1,0 +1,21 @@
+PHP is a:
+
+	-serverside language
+	-scripting language
+	-loosely typed language
+	-open source
+
+WAMP Server
+Xampp Server
+Mamp Server
+
+
+3rd Party software
+-------------------
+
+OS		Linux
+WS		Apache
+DB		MySQL
+Lang		PHP
+
+LAMP plateform
